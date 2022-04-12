@@ -1,0 +1,1 @@
+This is my first wesbite that I made watching a tutorial and trying to follow the structure. Was trying to learn what every command was trying to do. This is the beginning of the journey, can't wait to see what kind of things I can build when I became a developer. Excited about the journey honestly. 
